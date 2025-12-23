@@ -1,6 +1,6 @@
-<h1>Hi there, I am Manolo Vasquez👋</h1>
+<h1 align="center">Hi there, I am Manolo Vasquez👋</h1>
 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <h1>About me</h1>	
+<picture align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>About Me</picture>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
