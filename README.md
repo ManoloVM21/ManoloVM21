@@ -16,6 +16,9 @@
 - :boom: You can visit [MY WEBSITE]().
 <br>
 
+## Connect With Me:
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+
 ## 🛠 &nbsp;Tech Stack
 
 #### 🔧 Languages
