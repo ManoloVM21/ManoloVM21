@@ -12,8 +12,8 @@
 - :computer: I am a competitive programmer at `Python` and `SQL`, with strong knowledge in Data visualization programs such as `Tableau`, `Power BI` and `Excel`.
 - :student: I’m currently majoring in `Data Science` and minoring in `Statistics`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
-- :boom: You can visit [MY WEBSITE]().
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1r8RhNWPuyYFh0nbJl1PLaveIBkKl0ng4/view?usp=sharing).
+- :boom: You can visit [MY WEBSITE](https://manolovasquez.carrd.co/).
 <br>
 
 ## Connect With Me:
