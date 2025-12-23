@@ -17,7 +17,11 @@
 <br>
 
 ## Connect With Me:
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+<br>
+
+[![@manoloa_vm](https://img.icons8.com/fluency/48/000000/instagram-new.png "@manoloa_vm")](https://www.instagram.com/manoloa_vm/) [![@manolovasquezmendoza](https://img.icons8.com/fluency/48/000000/facebook.png "@manoloa_vm")](https://www.facebook.com/alexander.vasquezmendoza.5) [![@manolovasquezmendoza](https://img.icons8.com/fluency/48/000000/linkedin.png "@manoloa_vm")](https://www.linkedin.com/in/manolo-vasquez-mendoza/) [![@5098276069](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@5098276069")](tel:5098276069) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@alexander.21.01.2004@gmail.com")](alexander.21.01.2004@gmail.com)
+
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
