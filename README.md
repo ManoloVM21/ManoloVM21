@@ -7,10 +7,10 @@
 <br><br>
 
 - :school: I am a `Sophomore` at [Department of Mathematics](https://www.byui.edu/mathematics/) at [Brigham Young University - Idaho](https://www.byui.edu/).
+- - :student: I’m currently majoring in `Data Science` and minoring in `Statistics`.
 - :trophy: Certified as a Web Developer and Computer Programmer by BYU-I.
 - :technologist: I love using technologies to `answer` questions using Data and find solutions to `problems`.
 - :computer: I am a competitive programmer at `Python` and `SQL`, with strong knowledge in Data visualization programs such as `Tableau`, `Power BI` and `Excel`.
-- :student: I’m currently majoring in `Data Science` and minoring in `Statistics`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1r8RhNWPuyYFh0nbJl1PLaveIBkKl0ng4/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://manolovasquez.carrd.co/).
