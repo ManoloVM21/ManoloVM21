@@ -1,45 +1,52 @@
-<h1 align="center">Hi there, I am Manolo Vasquez👋</h1>
+<h1 align="center">Hi there, I am Manolo Vasquez 👋</h1>
+<h1 align="center"><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture> About Me</h1>
 
-<h1 align="center"> <picture align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About Me</h1>
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px></picture>
 
 <br><br>
 
-- :school: I am a `Sophomore` at [Department of Mathematics](https://www.byui.edu/mathematics/) at [Brigham Young University - Idaho](https://www.byui.edu/).
-- :student: I’m currently majoring in `Data Science` and minoring in `Statistics`.
-- :trophy: Certified as a Web Developer and Computer Programmer by BYU-I.
-- :technologist: I love using technologies to `answer` questions using Data and find solutions to `problems`.
-- :computer: I am a competitive programmer at `Python` and `SQL`, with strong knowledge in Data visualization programs such as `Tableau`, `Power BI` and `Excel`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1r8RhNWPuyYFh0nbJl1PLaveIBkKl0ng4/view?usp=sharing).
-- :boom: You can visit [MY WEBSITE](https://manolovasquez.carrd.co/).
-<br>
-
-## Connect With Me:
-<br>
-
-[![@manoloa_vm](https://img.icons8.com/fluency/48/000000/instagram-new.png "@manoloa_vm")](https://www.instagram.com/manoloa_vm/) [![@manolovasquezmendoza](https://img.icons8.com/fluency/48/000000/facebook.png "@manoloa_vm")](https://www.facebook.com/alexander.vasquezmendoza.5) [![@manolovasquezmendoza](https://img.icons8.com/fluency/48/000000/linkedin.png "@manoloa_vm")](https://www.linkedin.com/in/manolo-vasquez-mendoza/) [![@alexander.21.01.2004@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@alexander.21.01.2004@gmail.com")](alexander.21.01.2004@gmail.com) [![@5098276069](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@5098276069")](tel:5098276069) 
+- 🎓 `Junior` at [Brigham Young University - Idaho](https://www.byui.edu/) — B.S. in `Data Science`, minor in `Statistics`, certification in `Machine Learning`. GPA: 3.96.
+- 💼 `Data Analyst` at [Institutional Data & Analysis Services (IDAS) — BYUI](https://www.byui.edu/): building Power BI dashboards and SQL pipelines for enrollment and academic analytics.
+- 🧑‍🏫 `Data Science Tutor` at BYU-Idaho — helping students through Python, R, SQL, and machine learning workflows.
+- 🔬 I love building end-to-end predictive pipelines and translating model outputs into business decisions.
+- 🌱 Always learning — currently deepening expertise in `DAX`, `Power BI`, and institutional data systems.
+- 🌐 Portfolio: [manolovm21.github.io](https://manolovm21.github.io)
+- 📄 [My Resume](https://drive.google.com/file/d/1r8RhNWPuyYFh0nbJl1PLaveIBkKl0ng4/view?usp=sharing)
 
 <br>
 
-## 🛠 &nbsp;Tech Stack
+## Connect With Me
+
+<br>
+
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/manoloa_vm/)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/manolo-vasquez-mendoza/)
+[![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:manolovasmen@gmail.com)
+
+<br>
+
+## 🛠 Tech Stack
 
 #### 🔧 Languages
+[![My Skills](https://skillicons.dev/icons?i=py,r,postgres,mysql)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,html,css,js)](https://skillicons.dev)
-
-
-#### 📚 Libraries
-
-![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+#### 📚 ML & Data Libraries
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-%23E74C3C.svg?style=for-the-badge&logo=xgboost&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-%23CD792C.svg?style=for-the-badge&logo=polars&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+#### 📊 BI & Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Letsplot](https://img.shields.io/badge/Letsplot-%BEBFB8.svg?style=for-the-badge&logo=letsplot&logoColor=white)
+
+<br>
 
 ## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
 </p>
