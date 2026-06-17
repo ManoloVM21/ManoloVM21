@@ -11,7 +11,7 @@
 - 🔬 I love building end-to-end predictive pipelines and translating model outputs into business decisions.
 - 🌱 Always learning — currently deepening expertise in `DAX`, `Power BI`, and institutional data systems.
 - 🌐 Portfolio: [manolovm21.github.io](https://manolovm21.github.io)
-- 📄 [My Resume](https://drive.google.com/file/d/1r8RhNWPuyYFh0nbJl1PLaveIBkKl0ng4/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/1cuy_A-KeIFcusxeipVBynZwNML15gfP7/view?usp=sharing)
 
 <br>
 
